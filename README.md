@@ -21,7 +21,7 @@ The game was inspired by classic text adventure games like the legendary "Zork."
 1. Clone this repository to your local machine.
    
    ```
-   git clone https://github.com/your-username/zork-game.git
+   git clone https://github.com/ThomasHartmannDev/zorkgame.git
    ```
 
 2. Open the project in your favorite Java IDE that supports Java Swing.
